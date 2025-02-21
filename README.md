@@ -109,7 +109,7 @@ Key press functionality of OpenCV plays a very important role in this project. B
 - `S or s`: To save the predictions to respective csv file. decision_tree_results.csv for Decision tree classification method and scaled_euclidean_results.csv for Nearest neighbot method. Given there are objects, you can simply create your own results data without any code modification.
 - `q`: To stop the program. 
 
-More information about the internal implementation along with outputs is included in **Project3_Report.pdf**
+More information about the internal implementation along with outputs is included in **[Project3_Report.pdf](https://github.com/saideep-arikontham/Real-time-2D-Object-Recognition/blob/main/Project3_Report.pdf)**
 
 ---
 
