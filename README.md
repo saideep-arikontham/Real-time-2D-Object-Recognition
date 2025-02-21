@@ -97,8 +97,6 @@ Run the `vidDisplay` file to perform object detection. Below are few modes that 
 ./bin/vidDisplay multiple
 ```
 
-More information about the internal implementation along with outputs is included in **Project3_Report.pdf**
-
 ---
 
 ## Usage
@@ -110,6 +108,8 @@ Key press functionality of OpenCV plays a very important role in this project. B
 - `N or n`: To create or add to training dataset. I already have a training dataset in the repository (features/training_features.csv). Code modifications have to be made to use your own objects and training data.
 - `S or s`: To save the predictions to respective csv file. decision_tree_results.csv for Decision tree classification method and scaled_euclidean_results.csv for Nearest neighbot method. Given there are objects, you can simply create your own results data without any code modification.
 - `q`: To stop the program. 
+
+More information about the internal implementation along with outputs is included in **Project3_Report.pdf**
 
 ---
 
