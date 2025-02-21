@@ -34,4 +34,5 @@
 # Others
 *.jpg
 /sample_images/*.png
+.DS_Store
 
